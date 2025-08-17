@@ -10,6 +10,6 @@ library.add_book(Book("Pride and Prejudice", "Jane Austen"))
 library.add_book(EBook("Snow Crash", "Neal Stephenson", 500))
 library.add_book(PrintBook("The Catcher in the Rye", "J.D. Salinger", 234))
  # Display books 
-library.display_books()
+library.list_books()
 
 
